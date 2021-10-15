@@ -1,0 +1,2 @@
+Desafio de criação do primeiro repositório para versionamento de código.
+Desafio proposto no curso "Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso".
